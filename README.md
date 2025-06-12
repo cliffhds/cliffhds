@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Cliff!
 
-<!--
-**cliffhds/cliffhds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who is currently learning how to code. I’m passionate about building things with code and constantly improving my skills.
 
-Here are some ideas to get you started:
+## 🧠 What I'm Learning
+- 🌱 Currently learning **React.js** and diving into frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages & Skills
+- ✅ **Java**
+- ✅ **Python**
+- 🔄 Learning **React.js**
+
+## 📈 Goals
+- Get better at coding
+- Build projects
+- Collaborate on open source
+
+## 📫 How to Reach Me
+- Feel free to connect or collaborate!
+
+Thanks for stopping by! 😊
