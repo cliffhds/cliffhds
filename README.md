@@ -1,21 +1,17 @@
-# 👋 Hi, I'm Cliff!
+# Hi, I'm Cliff
 
-I'm a student who is currently learning how to code. I’m passionate about building things with code and constantly improving my skills.
+I'm an information systems student, and most of what I like about the field comes down to data: finding out what a messy dataset is actually saying and whether the answer holds up.
 
-## 🧠 What I'm Learning
-- 🌱 Currently learning **React.js** and diving into frontend development.
+I'm still early, so a lot of my repos are coursework and practice projects. I'd rather have a small project I understand than a big one I copied.
 
-## 💻 Languages & Skills
-- ✅ **Java**
-- ✅ **Python**
-- 🔄 Learning **React.js**
+## What I work with
 
-## 📈 Goals
-- Get better at coding
-- Build projects
-- Collaborate on open source
+Python, SQL, Excel, and whatever visualization tool the project calls for. I'm currently trying to get better at cleaning data properly instead of rushing to the charts.
 
-## 📫 How to Reach Me
-- Feel free to connect or collaborate!
+## Projects
 
-Thanks for stopping by! 😊
+I'll list these as I finish them. Until then, the repos below are the best place to look.
+
+## Contact
+
+You can reach me at your-email@example.com or on LinkedIn (link).
