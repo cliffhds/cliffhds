@@ -14,4 +14,4 @@ I'll list these as I finish them. Until then, the repos below are the best place
 
 ## Contact
 
-You can reach me at your-email@example.com or on LinkedIn (link).
+You can reach me at cliffordsumampouw06@gmail.com
